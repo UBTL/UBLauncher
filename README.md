@@ -3,8 +3,13 @@ Another Game Launcher for Linux (though there is also a Windows build too) focus
 
 <img width="1440" height="857" alt="34663364" src="https://github.com/user-attachments/assets/c901b89c-3d19-4907-882c-beaee99ef89e" />
 
-# Want to read/translate Japanese games or similar stuff in English? 
-## [You can try use my UBTL tool to translate the game as you play (click here)](https://ubtl.nexus34.xyz)
+# Download it here:
+https://github.com/UBTL/UBLauncher/releases
 
-## Join our Server to get updated versions and similar tools and projects over:
-## https://discord.nexus34.xyz
+# Want to read/translate Japanese games or similar stuff in English? 
+[You can try use my UBTL tool to translate the games as you play (click here)](https://ubtl.nexus34.xyz) .
+
+Or if you just want to support me continue making such type of tools.
+
+# Join our Server to get updated versions and similar tools and projects over:
+ https://discord.nexus34.xyz
